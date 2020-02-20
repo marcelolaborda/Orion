@@ -7,17 +7,17 @@ Marcelo Laborda – Producer
 
 Game Overview
 
-	Game Concept
-		Adventurers deep into a dangerous dungeon filled with mythical beasts in search of a lost treasure.
-	Genre
-		Orion is a grid-based first-person dungeon crawler featuring real-time combat. 
-	Target Audience
-		It is intended to appeal to a mass market audience with its simplicity and its light-hearted and whimsical tone.
-	Aesthetic Summary
-		It is set in a medieval fantasy world, filled with mythical beasts and magical items. The art style is made to appeal to a younger audience, with vivid, colorful, and stylized graphics. The game uses 2D graphics that imitate the distinctive style of retro arcade games.
+Game Concept
+Adventurers deep into a dangerous dungeon filled with mythical beasts in search of a lost treasure.
+Genre
+Orion is a grid-based first-person dungeon crawler featuring real-time combat. 
+Target Audience
+It is intended to appeal to a mass market audience with its simplicity and its light-hearted and whimsical tone.
+Aesthetic Summary
+It is set in a medieval fantasy world, filled with mythical beasts and magical items. The art style is made to appeal to a younger audience, with vivid, colorful, and stylized graphics. The game uses 2D graphics that imitate the distinctive style of retro arcade games.
  
 Game Description
-	Game Goals
+Game Goals
 The game attempts to provide a playful and entertaining experience that is challenging enough for experienced players, yet easy to learn and play. 
 Story
 Orion is a small peaceful village lost in a magical forest, inhabited by fairies and mysterious creatures. Deep within the forest, there is a mighty dungeon known as the Labyrinth of the Unknown. An old man stands by the entrance of the dungeon, and asks people passing by if they can retrieve a stolen treasure from the dungeon. He explains that a prophecy foretold of a special person who would find the treasure and become the hero of Orion. The man patiently waits for the hero mentioned in the prophecy to appear.
