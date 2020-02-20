@@ -3,21 +3,21 @@ Dungeon crawler built with Actionscript 3
  
 Game Design Document v1.0
 
-**Game Overview**
+##**Game Overview**
 
-**Game Concept**
+###**Game Concept**
 
 Adventurers deep into a dangerous dungeon filled with mythical beasts in search of a lost treasure.
 
-   **Genre**
+###**Genre**
 
 Orion is a grid-based first-person dungeon crawler featuring real-time combat. 
 
-   **Target Audience**
+###**Target Audience**
 
 It is intended to appeal to a mass market audience with its simplicity and its light-hearted and whimsical tone.
 
-   **Aesthetic Summary**
+###**Aesthetic Summary**
 
 It is set in a medieval fantasy world, filled with mythical beasts and magical items. The art style is made to appeal to a younger audience, with vivid, colorful, and stylized graphics. The game uses 2D graphics that imitate the distinctive style of retro arcade games.
 
